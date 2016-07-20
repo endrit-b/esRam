@@ -19,7 +19,6 @@ require([
     mode: FeatureLayer.MODE_SNAPSHOT
   });
 
-  console.log("YOOOOOO!!!!");
   map.addLayers([layer]);
 
   map.on('load', function () {
