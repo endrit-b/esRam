@@ -1,0 +1,16 @@
+{
+  "name": "esRam",
+  "version": "1.0.0",
+  "authors": [
+    "Endrit Bytyqi <endriti.92@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+  ],
+  "dependencies": {
+    "ramda": "~0.13.0"
+  }
+}
