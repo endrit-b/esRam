@@ -1,5 +1,5 @@
 {
-  "name": "esRam",
+  "name": "esrijs-ramda",
   "version": "0.0.0",
   "description": "",
   "main": "gulpfile.js",
@@ -10,5 +10,6 @@
   "license": "BSD-2-Clause",
   "devDependencies": {
     "gulp": "~3.8.10",
+    "gulp-babel": "~4.0.1"
   }
 }

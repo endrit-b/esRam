@@ -9,14 +9,14 @@
     parseOnLoad: true,
     packages: [{
       name: 'widgets',
-      location: locationPath + 'dist'
+      location: locationPath + '/dist/widgets'
     }, {
       name: 'ramda',
-      location: locationPath + 'bower_components/ramda/dist',
+      location: locationPath + '/bower_components/ramda/dist',
       main: 'ramda.min'
     }, {
       name: 'app',
-      location: locationPath + 'dist',
+      location: locationPath + '/dist',
       main: 'main'
     }]
   }, ['app']);
