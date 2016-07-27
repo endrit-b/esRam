@@ -8,7 +8,7 @@ $ npm install
 $ bower install
 ````
 
-### Compile Application
+### Compile the app
 ````
 $ gulp
 ````
